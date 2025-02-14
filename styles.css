@@ -1,0 +1,39 @@
+body{
+  padding: 25px;
+  background-color: #FFD9C5;
+  font-family: Arial;
+  text-align: center;
+  color: #FEF5D0;
+}
+.title {
+	color: #FEF5D0;
+}
+.big {
+  color: #FEF5D0;
+  font-size: 100px;
+}
+
+.but {
+  color: #FEF5D0;
+  font-size: 100px;
+  text-align: left;
+  display: inline;
+  margin: 50px;
+}
+.butt {
+  color: #FEF5D0;
+  font-size: 100px;
+  text-align: left;
+  display: inline;
+  margin: 100px;
+  padding: 100px;
+}
+
+.select{
+  text-align: left;
+  display: inline;
+}
+.select:hover{
+  border: 5px solid #555;
+  
+}
